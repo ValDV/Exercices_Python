@@ -7,4 +7,4 @@ def monte_carlo():
         y=random()
         if x**2+y**2 < 1:
             c+=1
-    return c/n
+    return 4*c/n
